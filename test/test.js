@@ -1,1 +1,3 @@
-console.log("Hola mamahuevo");
+var uwu = 1;
+console.log("xd");
+console.log(uwu);
